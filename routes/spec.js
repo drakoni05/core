@@ -1270,19 +1270,19 @@ You can find data that can be used to convert hero and ability IDs and other inf
                   },
                   gold_per_min: {
                     description: 'Average gold per minute of the player',
-                    type: 'integer'
+                    type: 'integer',
                   },
                   hero_damage: {
                     description: 'Total hero damage to enemy heroes',
-                    type: 'integer'
+                    type: 'integer',
                   },
                   hero_healing: {
                     description: 'Total healing of ally heroes',
-                    type: 'integer'
+                    type: 'integer',
                   },
                   last_hits: {
                     description: 'Total last hits the player had at the end of the match',
-                    type: 'integer'
+                    type: 'integer',
                   },
                   lane: {
                     description: 'Integer corresponding to which lane the player laned in for the match',
